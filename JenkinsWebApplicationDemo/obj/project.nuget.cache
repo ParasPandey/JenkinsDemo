@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lf3488O+pLZrG+tBJVwjIS462PlGPlL7BstwUYqJFnDfHnuGvJ80aOpCkPCaYu4bKNxHmVIlp/8Ek3zRJP5A/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paraspandey\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paraspandey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

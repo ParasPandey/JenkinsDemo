@@ -1,0 +1,7 @@
+C:\Users\paraspandey\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsWebApplicationDemo.exe
+C:\Users\paraspandey\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\paraspandey\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\paraspandey\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsWebApplicationDemo.dll
+C:\Users\paraspandey\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsWebApplicationDemo.deps.json
+C:\Users\paraspandey\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsWebApplicationDemo.runtimeconfig.json
+C:\Users\paraspandey\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsWebApplicationDemo.pdb
