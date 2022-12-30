@@ -21,6 +21,7 @@ pipeline {
             }
         }
         stage('Docker Build') {
+            agent any
             steps {
       	        sh 'sudo docker build -t jenkinsimage:latest .'
             }
