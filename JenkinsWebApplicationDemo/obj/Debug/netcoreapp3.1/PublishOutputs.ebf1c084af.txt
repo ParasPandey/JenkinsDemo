@@ -1,0 +1,7 @@
+C:\Users\paraspandey\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Docker\publish\JenkinsWebApplicationDemo.exe
+C:\Users\paraspandey\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Docker\publish\appsettings.Development.json
+C:\Users\paraspandey\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Docker\publish\appsettings.json
+C:\Users\paraspandey\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Docker\publish\JenkinsWebApplicationDemo.dll
+C:\Users\paraspandey\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Docker\publish\JenkinsWebApplicationDemo.deps.json
+C:\Users\paraspandey\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Docker\publish\JenkinsWebApplicationDemo.runtimeconfig.json
+C:\Users\paraspandey\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Docker\publish\JenkinsWebApplicationDemo.pdb
